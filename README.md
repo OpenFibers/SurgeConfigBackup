@@ -1,0 +1,2 @@
+Config file download link is here: [https://github.com/OpenFibers/SurgeConfigBackup/raw/master/surge.conf](https://github.com/OpenFibers/SurgeConfigBackup/raw/master/surge.conf).  
+Server info need to be updated in Surge app.  
