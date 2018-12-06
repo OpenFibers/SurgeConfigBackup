@@ -24,8 +24,7 @@ echo /usr/local/lib >> /etc/ld.so.conf
 ldconfig
 
 # shadow socks 配置
-echo "{\n    \"server\":\"0.0.0.0\",\n    \"server_port\":4430,\n    \"local_address\":\"127.0.0.1\",\n    \"local_port\":1080,\n    \"password\":\"pwdneedtochange\",
-\n    \"timeout\":300,\n    \"method\":\"chacha20\",\n    \"fast_open\":false\n}" >> /etc/shadowsocks.json
+curl https://raw.githubusercontent.com/OpenFibers/SurgeConfigBackup/master/shadowsocks.json > /etc/shadowsocks.json
 
 # 开机启动与启动
 chmod +x /etc/rc.d/rc.local
