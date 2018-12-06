@@ -1,6 +1,6 @@
 Config file download links are here:  
 Automatic blacklist proxy:  
-[https://github.com/OpenFibers/SurgeConfigBackup/raw/master/WhiteList.conf](https://github.com/OpenFibers/SurgeConfigBackup/raw/master/BlackList.conf).  
+[https://github.com/OpenFibers/SurgeConfigBackup/raw/master/BlackList.conf](https://github.com/OpenFibers/SurgeConfigBackup/raw/master/BlackList.conf).  
 Automatic whitelist proxy:  
 [https://github.com/OpenFibers/SurgeConfigBackup/raw/master/WhiteList.conf](https://github.com/OpenFibers/SurgeConfigBackup/raw/master/WhiteList.conf).  
 Global proxy:  
