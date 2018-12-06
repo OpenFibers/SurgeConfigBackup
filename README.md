@@ -7,3 +7,9 @@ Global proxy:
 [https://github.com/OpenFibers/SurgeConfigBackup/raw/master/AllProxy.conf](https://github.com/OpenFibers/SurgeConfigBackup/raw/master/AllProxy.conf).  
 
 Server info need to be updated in Surge app.  
+
+Cent OS 7 x64 一键安装ss+chacha20:
+
+```
+curl https://raw.githubusercontent.com/OpenFibers/SurgeConfigBackup/master/cent7_install_ss_chacha20.sh | sh
+```
