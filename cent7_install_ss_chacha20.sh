@@ -6,6 +6,7 @@ yum -y install m2crypto
 
 # pip
 yum -y install epel-release
+yum -y install deltarpm
 yum -y install python-pip
 pip install --upgrade pip
 
